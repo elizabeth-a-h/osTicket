@@ -18,16 +18,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<p><h2>Post-Install Configuration Objectives and Steps</h2>
 
--1 Roles
--2 Departments
--3 Teams
--4 Agents
--5 Service Level Agreements
--6 Help Topics
--7 Allow Anyone to Create Tickets
--8 Configure Users
+1. Configure Roles
+2. Configure Departments
+3. Configure Teams
+4. Configure Agents
+5. Configure Service Level Agreements
+6. Configure Help Topics
+7. Set to Allow Anyone to Create Tickets
+8. Configure Users</p>
 
 <h2>Configuration Steps</h2>
 
